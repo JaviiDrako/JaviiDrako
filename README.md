@@ -26,7 +26,7 @@ I'm currently studying to become a Software Engineer. I love building, learning,
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,postgres,mysql,latex,neovim,notion,git,gitlab" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px" alt="GitHub icon" />
+  <img src="assets/github.svg" width="50px" alt="Power BI icon" />
 </p>
 
 
