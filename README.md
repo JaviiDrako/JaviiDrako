@@ -46,7 +46,13 @@ I'm currently studying to become a Software Engineer. I love building, learning,
 <br> 
 
 
+## 📚 Learning
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=rust,docker,mongodb" />
+  <img src="assets/tableau.svg" width="40px" alt="Tableau icon" />
+  <img src="assets/powerbi.svg" width="40px" alt="Power BI icon" />
+</p>
 
 
 
@@ -58,12 +64,8 @@ I'm currently studying to become a Software Engineer. I love building, learning,
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/tuusuario/" target="_blank">
+  <a href="[https://www.linkedin.com/in/tuusuario/](https://www.linkedin.com/in/javier-esteban-p%C3%A9rez-adri%C3%A1zola-33a802276/)" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://discord.com/users/tuID" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter / X" />
   </a>
 </p>
 
