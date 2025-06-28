@@ -22,6 +22,20 @@ I'm currently studying to become a Software Engineer. I love building, learning,
 </table>
 
 
+## 🚀 Future Learning Goals
+
+I'm highly motivated to keep learning and evolving as a professional. I'm especially interested in exploring areas like:
+
+🤖 Machine Learning & Artificial Intelligence: to create intelligent systems that can learn and adapt.
+
+🔐 Cybersecurity: understanding how to protect systems, data, and users from threats.
+
+🧱 Blockchain Development: learning how decentralized applications work, including smart contracts and secure digital transactions.
+
+☁️ Cloud Computing: to build scalable, distributed applications and understand platforms like AWS or Azure.
+
+
+
 ## 🧰 Languages and Tools
 
 <p align="center">
