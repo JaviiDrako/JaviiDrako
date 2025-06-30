@@ -40,7 +40,7 @@ I'm highly motivated to keep learning and evolving as a professional. I'm especi
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,postgres,mysql,latex,neovim,notion,git,gitlab" />
-  <img src="assets/github.svg" width="50px" alt="Power BI icon" />
+  <img src="assets/github.svg" width="50px" alt="GitHub icon" />
 </p>
 
 
@@ -64,8 +64,9 @@ I'm highly motivated to keep learning and evolving as a professional. I'm especi
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=rust,docker,mongodb" />
-  <img src="assets/tableau.svg" width="40px" alt="Tableau icon" />
-  <img src="assets/powerbi.svg" width="40px" alt="Power BI icon" />
+  <img src="assets/duckdb.svg" width="50px" alt="DuckDB icon" />
+  <img src="assets/tableau.svg" width="50px" alt="Tableau icon" />
+  <img src="assets/powerbi.svg" width="50px" alt="Power BI icon" />
 </p>
 
 
