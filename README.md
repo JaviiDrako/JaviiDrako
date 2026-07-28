@@ -1,18 +1,24 @@
-<h1 align="center"> I'm Javier Esteban</h1>
-<h4 align="center">A passionate future Software Engineer</h3>
-
+<h1 align="center">Hi, I'm Javier Esteban 👋</h1>
+<h4 align="center">
+Software Engineering Student • Data Engineer • AI Automation Enthusiast
+</h4>
 
 <table>
 <tr>
 <td>
 
-I'm currently studying to become a Software Engineer. I love building, learning, and experimenting with technology.
+I'm a Software Engineering student passionate about designing scalable data platforms and intelligent automation systems.
 
-- 🔭 I’m currently working on personal projects with **Java**, **Python**, and **SQL**  
-- 🌱 I’m learning **Rust** and aiming to dive into **Machine Learning**  
-- 💻 I use **Linux (Pop!_OS)** and **Windows**  
-- 🛠️ I configure my development setup with **Neovim + Lua** but also complement it with full-featured IDEs  
-- 📚 I'm always learning something new — currently diving into systems programming and data science  
+I enjoy building end-to-end solutions from data ingestion and transformation pipelines to Business Intelligence dashboards and AI powered workflows.
+
+Currently, I'm focusing on Data Engineering while continuing to expand my knowledge in software architecture, cloud technologies and machine learning.
+
+- 🚀 Building Data Engineering projects with **Python, PostgreSQL, Airflow, dbt and Docker**
+- 🤖 Developing AI automation solutions using **LLMs, n8n and APIs**
+- 📊 Learning Business Intelligence with **Power BI** and **Evidence.dev**
+- 🐧 Daily Linux user (Pop!_OS)
+- 🛠️ Neovim enthusiast while still using full IDEs when appropriate
+- 📚 Always learning new technologies and best engineering practices
 
 </td>
 <td>
@@ -22,25 +28,22 @@ I'm currently studying to become a Software Engineer. I love building, learning,
 </table>
 
 
-## 🚀 Future Learning Goals
+## 🚀 Current Focus
 
-I'm highly motivated to keep learning and evolving as a professional. I'm especially interested in exploring areas like:
-
-🤖 Machine Learning & Artificial Intelligence: to create intelligent systems that can learn and adapt.
-
-🔐 Cybersecurity: understanding how to protect systems, data, and users from threats.
-
-🧱 Blockchain Development: learning how decentralized applications work, including smart contracts and secure digital transactions.
-
-☁️ Cloud Computing: to build scalable, distributed applications and understand platforms like AWS or Azure.
-
-
+- 📈 Data Engineering
+- 📊 Business Intelligence
+- 🤖 AI Agents & Automation
+- ☁️ Cloud Data Platforms
+- 🧠 Machine Learning
 
 ## 🧰 Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,postgres,mysql,latex,neovim,notion,git,gitlab" />
-  <img src="assets/github.svg" width="50px" alt="GitHub icon" />
+<img src="https://skillicons.dev/icons?i=python,java,cs,postgres,mysql,docker,git,github,linux,neovim,vscode" />
+<img src="assets/airflow.svg" width="50"/>
+<img src="assets/dbt.svg" width="50"/>
+<img src="assets/powerbi.svg" width="50"/>
+<img src="assets/n8n.svg" width="50"/>
 </p>
 
 
@@ -60,13 +63,24 @@ I'm highly motivated to keep learning and evolving as a professional. I'm especi
 <br> 
 
 
-## 📚 Learning
+## 📚 Currently Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,docker,mongodb" />
-  <img src="assets/duckdb.svg" width="50px" alt="DuckDB icon" />
-  <img src="assets/tableau.svg" width="50px" alt="Tableau icon" />
-  <img src="assets/powerbi.svg" width="50px" alt="Power BI icon" />
+
+Power BI
+
+Evidence.dev
+
+DuckDB
+
+Microsoft Fabric
+
+Azure
+
+AWS
+
+Machine Learning
+
 </p>
 
 
